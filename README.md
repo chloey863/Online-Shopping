@@ -5,4 +5,4 @@ Main works include but not limit to:
 - Utilized Hibernate to provide better support of database operations.
 - Developed a Spring Web Flow to support item ordering.
 
-(my Github is under construction)
+(My Github is under construction, please visit later)
