@@ -7,14 +7,17 @@ Main works include but not limit to:
 
 The following diagram is the Entity Relationship Diagram of the app design:
 
-![Image of ERD](https://user-images.githubusercontent.com/71158530/96680418-13bbb900-133b-11eb-9e9f-94d4065cda65.jpg)
+![onlineShop ERD](https://user-images.githubusercontent.com/71158530/97227121-08d1b000-17a3-11eb-8afc-8a978016282c.jpg)
+
+
 
 The following diagram is the Workflow of the web service design:
 
-![Image of workflow](https://user-images.githubusercontent.com/71158530/96680418-13bbb900-133b-11eb-9e9f-94d4065cda65.jpg)
+![Online Shop Workflow](https://user-images.githubusercontent.com/71158530/97227134-0d966400-17a3-11eb-8fd1-1a8d98f872b3.jpg)
+
 
 The following diagram is the Workflow of the Spring MVC applied:
 
-![Image of workflow](https://user-images.githubusercontent.com/71158530/96680418-13bbb900-133b-11eb-9e9f-94d4065cda65.jpg)
+![onlineShop Spring Framework](https://user-images.githubusercontent.com/71158530/97227140-0ec79100-17a3-11eb-9612-33a7ccec1db0.jpg)
 
 
